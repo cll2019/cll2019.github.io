@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TaoBlog
+title: LingBlog
 subtitle: Sharing makes us better
-description: wutaotao personal blog
-keywords: taoblog,java,开源,技术博客,IT
-author: 吴涛涛
+description: chenlingling personal blog
+keywords: cll,English,Thought
+author: 陈玲玲
 language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://www.taoblog.cn
+url: http://www.lingblog.net
 root: /
 permalink: post/:abbrlink/
 permalink_defaults:
@@ -92,7 +92,7 @@ theme: MyNext
 deploy:
 - type: git
   repo: 
-    github: https://github.com/wutaotao2015/wutaotao2015.github.io.git,master
+    github: https://github.com/cll2019/cll2019.github.io.git,master
 
 sitemap:
     path: sitemap.xml
