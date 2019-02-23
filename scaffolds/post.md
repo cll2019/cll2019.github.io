@@ -1,10 +1,8 @@
 ---
 title: {{ title }}
-categories: C
 tags:
 - T
 - T
-image: http://wutaotaospace.oss-cn-beijing.aliyuncs.com/image/201901311.jpg
 updated: {{ date }}
 abbrlink: 
 date: {{ date }}
@@ -15,4 +13,4 @@ date: {{ date }}
 ##
 ##
 <hr />
-<img src="http://wutaotaospace.oss-cn-beijing.aliyuncs.com/image/201901311.jpg" class="full-image" />
+<img src="http://wutaotaospace.oss-cn-beijing.aliyuncs.com/cllimg/cllHead.jpg" class="full-image" />
