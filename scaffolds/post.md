@@ -3,6 +3,7 @@ title: {{ title }}
 tags:
 - T
 - T
+image: http://wutaotaospace.oss-cn-beijing.aliyuncs.com/image/cllHead.jpg
 updated: {{ date }}
 abbrlink: 
 date: {{ date }}
