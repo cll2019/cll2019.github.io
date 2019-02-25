@@ -1,13 +1,13 @@
 ---
-title: 常用词汇和标点用法
+title: Beauty And Myth
 tags:
   - 翻译笔记
 image: http://wutaotaospace.oss-cn-beijing.aliyuncs.com/image/201902241.jpg
 abbrlink: d44bd3da
-updated: 2019-02-24 10:45:33
+updated: 2019-02-25 21:01:17
 date: 2019-02-24 10:45:33
 ---
-<p class="description">first cll post</p>
+<p class="description"></p>
 <!-- more -->
 
 ## 通用词汇
